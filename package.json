@@ -1,0 +1,11 @@
+{
+    "name": "awesome-agents-md",
+    "private": true,
+    "devDependencies": {
+        "awesome-lint": "^0.18.0"
+    },
+    "scripts": {
+        "lint": "awesome-lint",
+        "check-links": "npx lychee --exclude-file .lycheeignore README.md templates/**/*.md examples/**/*.md"
+    }
+}
