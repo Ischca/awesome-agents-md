@@ -20,6 +20,7 @@
 
 ## Templates
 - [Advanced AGENTS.md](templates/advanced.md) – A feature‑rich template with testing, safety and style rules.
+- [Agents.md Templates](https://github.com/danielrosehill/Agents.md-Templates) – Reusable AGENTS.md templates for common project types.
 - [Minimal AGENTS.md](templates/minimal.md) – A concise, no‑frills starting point.
 
 ## Real‑world Examples
