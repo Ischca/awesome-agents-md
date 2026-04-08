@@ -37,6 +37,7 @@
 ## Tools
 - [awesome‑lint](https://github.com/sindresorhus/awesome-lint) – Linter that enforces Awesome List style.
 - [lychee](https://github.com/lycheeverse/lychee) – Fast, configurable link checker.
+- [nv:context](https://github.com/johnnichev/nv-context) – Context engineering automation for AI agents.
 
 ## License
 This work is released under **CC0‑1.0**. See [LICENSE](LICENSE).
