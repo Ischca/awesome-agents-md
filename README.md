@@ -26,6 +26,7 @@
 - [Next.js Shop](examples/nextjs-shop.md) – Monorepo TypeScript e‑commerce demo with pnpm workspaces.
 - [Rust API Skeleton](examples/rust-api.md) – Axum‑based REST API showcasing integration tests and nix setup.
 
+- [KubeStellar Console](examples/kubestellar-console.md) – Multi-cluster Kubernetes dashboard (Go + React/TypeScript) with MCP server, card patterns, and i18n.
 ## Guides & Articles
 - [A Quick Look at ChatGPT Codex – Apidog Blog](https://apidog.com/blog/openai-launches-chatgpt-codex-an-ai-coding-agent) – Visual overview with a five-point minimal template.
 - [ChatGPT Codex: The Missing Manual – Latent Space](https://www.latent.space/p/codex) – Detailed format guidance in 'Groom your Agents.md'.
