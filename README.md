@@ -27,6 +27,7 @@
 - [Rust API Skeleton](examples/rust-api.md) – Axum‑based REST API showcasing integration tests and nix setup.
 
 ## Guides & Articles
+- [AGENTS.md vs CLAUDE.md for Codex migration](https://bringyour.ai/agents-md-claude-md) - Audits instruction-file migration behavior.
 - [A Quick Look at ChatGPT Codex – Apidog Blog](https://apidog.com/blog/openai-launches-chatgpt-codex-an-ai-coding-agent) – Visual overview with a five-point minimal template.
 - [ChatGPT Codex: The Missing Manual – Latent Space](https://www.latent.space/p/codex) – Detailed format guidance in 'Groom your Agents.md'.
 - [Create an AGENTS.md file in your repo – Medium (Joe Njenga)](https://medium.com/@joe.njenga/openai-new-codex-agent-the-fully-agentic-coding-best-coding-agent-8fae9810a888) – Shares a sub-30 line minimal template with examples.
@@ -36,6 +37,7 @@
 
 ## Tools
 - [awesome‑lint](https://github.com/sindresorhus/awesome-lint) – Linter that enforces Awesome List style.
+- [Bring Your AI](https://bringyour.ai/claude-code-to-codex) - Migrates Claude Code harnesses into Codex.
 - [lychee](https://github.com/lycheeverse/lychee) – Fast, configurable link checker.
 
 ## License
