@@ -35,6 +35,7 @@
 - [Writing effective AGENTS.md files](https://blog.example.com/agents-md) – Practical tips to accelerate agent onboarding.
 
 ## Tools
+- [andrej-karpathy-skills](https://github.com/swarmclawai/andrej-karpathy-skills) - npm installer for AGENTS.md and skill adapters.
 - [awesome‑lint](https://github.com/sindresorhus/awesome-lint) – Linter that enforces Awesome List style.
 - [lychee](https://github.com/lycheeverse/lychee) – Fast, configurable link checker.
 
