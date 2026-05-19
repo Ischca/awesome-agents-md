@@ -36,6 +36,7 @@
 
 ## Tools
 - [AGENTS.md Repo Readiness Checker](https://agents-md-repo-readiness-checker.vercel.app/) - Scores pasted AGENTS.md drafts before commit.
+- [Agent Instruction Drift Checker](https://agent-instruction-drift-checker.vercel.app/) - Compares AGENTS.md with CLAUDE.md and tool rules.
 - [awesome‑lint](https://github.com/sindresorhus/awesome-lint) – Linter that enforces Awesome List style.
 - [lychee](https://github.com/lycheeverse/lychee) – Fast, configurable link checker.
 
