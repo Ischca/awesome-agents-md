@@ -20,6 +20,7 @@
 
 ## Templates
 - [Advanced AGENTS.md](templates/advanced.md) – A feature‑rich template with testing, safety and style rules.
+- [Harness for Codex](https://github.com/ganimjeong/Harness-for-codex) – Repository harness with AGENTS.md and scripts.
 - [Minimal AGENTS.md](templates/minimal.md) – A concise, no‑frills starting point.
 
 ## Real‑world Examples
