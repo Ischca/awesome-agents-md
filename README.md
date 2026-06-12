@@ -37,6 +37,7 @@
 ## Tools
 - [awesome‑lint](https://github.com/sindresorhus/awesome-lint) – Linter that enforces Awesome List style.
 - [lychee](https://github.com/lycheeverse/lychee) – Fast, configurable link checker.
+- [aicfg](https://github.com/ipythoning/aicfg) – AGENTS.md ecosystem CLI: init, validate, and manage project instructions for Claude Code, Cursor, Codex, and 20+ AI coding tools.
 
 ## License
 This work is released under **CC0‑1.0**. See [LICENSE](LICENSE).
