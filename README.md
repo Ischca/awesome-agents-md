@@ -37,6 +37,7 @@
 ## Tools
 - [awesome‑lint](https://github.com/sindresorhus/awesome-lint) – Linter that enforces Awesome List style.
 - [lychee](https://github.com/lycheeverse/lychee) – Fast, configurable link checker.
+- [Context Architecture](https://context-architecture.dev) – Specification and agent skill for making an existing codebase legible to people and AI agents: `AGENTS.md` at every boundary, conventions codified in lint and types, and every claim backed by a check that fails when it stops being true. [Skill](https://github.com/sergioazoc/context-architecture/tree/main/skills/context-architecture).
 
 ## License
 This work is released under **CC0‑1.0**. See [LICENSE](LICENSE).
