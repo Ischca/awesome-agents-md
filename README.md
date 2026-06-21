@@ -28,6 +28,7 @@
 
 ## Guides & Articles
 - [A Quick Look at ChatGPT Codex – Apidog Blog](https://apidog.com/blog/openai-launches-chatgpt-codex-an-ai-coding-agent) – Visual overview with a five-point minimal template.
+- [AI Web Design Codex – Eneryleen](https://github.com/Eneryleen/ai-web-design-codex) – Web-design knowledge base with an AGENTS.md index for agents.
 - [ChatGPT Codex: The Missing Manual – Latent Space](https://www.latent.space/p/codex) – Detailed format guidance in 'Groom your Agents.md'.
 - [Create an AGENTS.md file in your repo – Medium (Joe Njenga)](https://medium.com/@joe.njenga/openai-new-codex-agent-the-fully-agentic-coding-best-coding-agent-8fae9810a888) – Shares a sub-30 line minimal template with examples.
 - [OpenAI Codex: A Guide With 3 Practical Examples – DataCamp](https://www.datacamp.com/tutorial/openai-codex) – Step-by-step tutorial including three AGENTS.md samples.
