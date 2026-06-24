@@ -35,7 +35,7 @@
 - [Writing effective AGENTS.md files](https://blog.example.com/agents-md) – Practical tips to accelerate agent onboarding.
 
 ## Tools
-- [AGENTS.md Generator](https://ronnie2025.github.io/ai-agent-workbench-starter-pack/codex-agents-md-generator.html) - Form tool for Codex-ready project instructions.
+- [AGENTS.md Generator for Codex CLI](https://github.com/Ronnie2025/codex-agents-md-generator) - Free browser tool for generating Codex-ready project instructions with commands, file boundaries, safety rules, and acceptance checks.
 - [awesome‑lint](https://github.com/sindresorhus/awesome-lint) – Linter that enforces Awesome List style.
 - [lychee](https://github.com/lycheeverse/lychee) – Fast, configurable link checker.
 
