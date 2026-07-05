@@ -36,6 +36,7 @@
 
 ## Tools
 - [awesome‑lint](https://github.com/sindresorhus/awesome-lint) – Linter that enforces Awesome List style.
+- [Cosmosmith](https://github.com/devnomad-byte/cosmosmith) - Generates AGENTS.md workflows and tool adapters.
 - [lychee](https://github.com/lycheeverse/lychee) – Fast, configurable link checker.
 
 ## License
