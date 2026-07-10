@@ -1,4 +1,9 @@
 # Awesome Agents.md
+
+<!-- bmc:front -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:front -->
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of real‑world **AGENTS.md** files, templates, guides and tools for OpenAI Codex / agents‑based projects. Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
@@ -17,6 +22,10 @@
 ## Community Examples
 - [Improving our Java SDK with Codex – Temporal Blog](https://temporal.io/blog/improving-java-sdk-codex-openai) – Explains the addition of AGENTS.md in a real production SDK.
 - [Temporal Java SDK – AGENTS.md](https://github.com/temporalio/sdk-java/blob/main/AGENTS.md) – Production‑grade build/test instructions for a Java library.
+
+<!-- bmc:middle -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:middle -->
 
 ## Templates
 - [Advanced AGENTS.md](templates/advanced.md) – A feature‑rich template with testing, safety and style rules.
@@ -42,6 +51,6 @@
 ## License
 This work is released under **CC0‑1.0**. See [LICENSE](LICENSE).
 
-## Support
-
-[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=dayongfan&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/dayongfan)
+<!-- bmc:end -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:end -->
