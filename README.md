@@ -37,6 +37,7 @@
 ## Tools
 - [awesome‑lint](https://github.com/sindresorhus/awesome-lint) – Linter that enforces Awesome List style.
 - [lychee](https://github.com/lycheeverse/lychee) – Fast, configurable link checker.
+- [Superself](https://github.com/fxylabs/superself) – Version control for project state; renders AGENTS.md blocks.
 
 ## License
 This work is released under **CC0‑1.0**. See [LICENSE](LICENSE).
