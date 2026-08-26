@@ -37,6 +37,7 @@
 ## Tools
 - [awesome‑lint](https://github.com/sindresorhus/awesome-lint) – Linter that enforces Awesome List style.
 - [lychee](https://github.com/lycheeverse/lychee) – Fast, configurable link checker.
+- [rulebisect](https://github.com/T4LEL/rulebisect) – Bisects AGENTS.md to find the rule that hurts your agent.
 
 ## License
 This work is released under **CC0‑1.0**. See [LICENSE](LICENSE).
