@@ -37,6 +37,7 @@
 ## Tools
 - [awesome‑lint](https://github.com/sindresorhus/awesome-lint) – Linter that enforces Awesome List style.
 - [lychee](https://github.com/lycheeverse/lychee) – Fast, configurable link checker.
+- [Repo Agent Kit](https://repoagentkit.com/?utm_source=awesome-agents-md&utm_medium=directory&utm_campaign=agents-md) – Browser-private AGENTS.md generator, audits and CI.
 
 ## License
 This work is released under **CC0‑1.0**. See [LICENSE](LICENSE).
