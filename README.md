@@ -35,7 +35,7 @@
 - [Writing effective AGENTS.md files](https://blog.example.com/agents-md) – Practical tips to accelerate agent onboarding.
 
 ## Tools
-- [AgentReady](https://getagentready.dev) – Generates a tailored AGENTS.md from your repo manifest.
+- [AgentReady](https://github.com/cyberpatrolunit/agentready) – Generates a tailored AGENTS.md from your repo manifest.
 - [awesome‑lint](https://github.com/sindresorhus/awesome-lint) – Linter that enforces Awesome List style.
 - [lychee](https://github.com/lycheeverse/lychee) – Fast, configurable link checker.
 
