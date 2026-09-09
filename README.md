@@ -36,6 +36,7 @@
 
 ## Tools
 - [awesome‑lint](https://github.com/sindresorhus/awesome-lint) – Linter that enforces Awesome List style.
+- [driftlint](https://github.com/alifurkangokce/driftlint) - Verifies AGENTS.md claims against the actual repo.
 - [lychee](https://github.com/lycheeverse/lychee) – Fast, configurable link checker.
 
 ## License
