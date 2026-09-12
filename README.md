@@ -4,6 +4,7 @@
 > A curated list of real‑world **AGENTS.md** files, templates, guides and tools for OpenAI Codex / agents‑based projects. Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
 
 ## Contents
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) – Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 - [Official Samples](#official-samples)
 - [Community Examples](#community-examples)
 - [Templates](#templates)
