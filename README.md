@@ -36,6 +36,7 @@
 
 ## Tools
 - [awesome‑lint](https://github.com/sindresorhus/awesome-lint) – Linter that enforces Awesome List style.
+- [convention-map](https://github.com/Orvii/convention-map) – Maps which instruction files each coding agent loads.
 - [lychee](https://github.com/lycheeverse/lychee) – Fast, configurable link checker.
 
 ## License
