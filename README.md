@@ -20,6 +20,7 @@
 
 ## Templates
 - [Advanced AGENTS.md](templates/advanced.md) – A feature‑rich template with testing, safety and style rules.
+- [agents-md-examples](https://github.com/piekwerk/agents-md-examples) – Production-ready AGENTS.md templates for 12 stacks (Next.js, Django, FastAPI, Rails, Go, Rust, and more). MIT licensed.
 - [Minimal AGENTS.md](templates/minimal.md) – A concise, no‑frills starting point.
 
 ## Real‑world Examples
