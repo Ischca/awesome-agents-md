@@ -35,6 +35,7 @@
 - [Writing effective AGENTS.md files](https://blog.example.com/agents-md) – Practical tips to accelerate agent onboarding.
 
 ## Tools
+- [AGENTS.md Generator & Checker](https://vibeboot.dev/tools/agents-md-generator) – Free browser tools to generate and lint AGENTS.md files.
 - [awesome‑lint](https://github.com/sindresorhus/awesome-lint) – Linter that enforces Awesome List style.
 - [lychee](https://github.com/lycheeverse/lychee) – Fast, configurable link checker.
 
