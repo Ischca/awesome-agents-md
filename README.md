@@ -20,6 +20,7 @@
 
 ## Templates
 - [Advanced AGENTS.md](templates/advanced.md) – A feature‑rich template with testing, safety and style rules.
+- [Agent Config Templates](https://github.com/agentkitco/agent-config-templates) - Free AGENTS.md, Cursor, and Copilot starters.
 - [Minimal AGENTS.md](templates/minimal.md) – A concise, no‑frills starting point.
 
 ## Real‑world Examples
