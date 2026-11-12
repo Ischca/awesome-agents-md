@@ -17,6 +17,7 @@
 ## Community Examples
 - [Improving our Java SDK with Codex – Temporal Blog](https://temporal.io/blog/improving-java-sdk-codex-openai) – Explains the addition of AGENTS.md in a real production SDK.
 - [Temporal Java SDK – AGENTS.md](https://github.com/temporalio/sdk-java/blob/main/AGENTS.md) – Production‑grade build/test instructions for a Java library.
+- [Enterprise Agents](https://github.com/michail-peterlis/AGENTS.md) – Modular `.agents/` governance kit with policies, specialized roles, multi-agent workflow skills, and validation tooling.
 
 ## Templates
 - [Advanced AGENTS.md](templates/advanced.md) – A feature‑rich template with testing, safety and style rules.
