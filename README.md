@@ -20,6 +20,7 @@
 
 ## Templates
 - [Advanced AGENTS.md](templates/advanced.md) – A feature‑rich template with testing, safety and style rules.
+- [agents-md-starter](https://github.com/hwu121380-afk/agents-md-starter) – AGENTS.md + CLAUDE.md import so Claude Code reads it too.
 - [Minimal AGENTS.md](templates/minimal.md) – A concise, no‑frills starting point.
 
 ## Real‑world Examples
