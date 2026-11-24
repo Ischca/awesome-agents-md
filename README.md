@@ -35,6 +35,7 @@
 - [Writing effective AGENTS.md files](https://blog.example.com/agents-md) – Practical tips to accelerate agent onboarding.
 
 ## Tools
+- [AgentsMD Checker](https://agentsmdchecker.com/) - Compares `AGENTS.md` and `CLAUDE.md` rules in the browser.
 - [awesome‑lint](https://github.com/sindresorhus/awesome-lint) – Linter that enforces Awesome List style.
 - [lychee](https://github.com/lycheeverse/lychee) – Fast, configurable link checker.
 
